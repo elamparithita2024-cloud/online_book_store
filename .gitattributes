@@ -1,0 +1,20 @@
+# Auto-detect text files and normalize line endings to LF on commit
+* text=auto eol=lf
+
+# Explicit text file types
+*.html text
+*.css text
+*.js text
+*.json text
+*.py text
+*.md text
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Binary file types
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary

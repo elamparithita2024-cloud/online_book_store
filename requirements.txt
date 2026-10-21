@@ -1,0 +1,7 @@
+# Online Book Store - Python Requirements
+# Note: The application (app.py, mini_scm.py, and scm_tool.py) is designed
+# using 100% Python standard libraries (http.server, hashlib, json, os, sys, zipfile).
+# No external packages are strictly required!
+# Optional packages for development / enhanced capabilities:
+# flask>=3.0.0
+# requests>=2.31.0
